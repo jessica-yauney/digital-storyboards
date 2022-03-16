@@ -6,7 +6,7 @@ This website provides an elementary or middle school technology & engineering le
 
 We worked in elementary classrooms to help students design and build Digital Storyboards with the specific intent of assisting them in telling a story (CCSS.ELA-LITERACY.RL). The creation of these storyboards required students to use literacy skills (e.g., summarize, presenting, narrative skills) to identify important plot points and summarize or share one part of a story. We also challenged students to think of ways to create an illustration that helped them in storytelling. Specifically, students were invited to use a variety of provided electronic elements to improve their illustrations. Examples throughout this page showcase how students include LEDs, conductive paint, and other supplies to connect a micro:bit and build a Digital Storyboard.
 
-![Image](https://github.com/jessica-yauney/digital-storyboards/blob/gh-pages/starwars.png)
+![Image](https://github.com/jessica-yauney/digital-storyboards/blob/gh-pages/starwars.png?raw=true)
 
 ### Markdown
 
