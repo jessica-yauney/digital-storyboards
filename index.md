@@ -8,26 +8,16 @@ We worked in elementary classrooms to help students design and build Digital Sto
 
 ![Image](https://github.com/jessica-yauney/digital-storyboards/blob/gh-pages/starwars.png?raw=true)
 
-### Markdown
+### Examples
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+### Survey
 
 - Bulleted
 - List
 
-1. Numbered
-2. List
+### Permission Forms
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+1. [Link](url) 
