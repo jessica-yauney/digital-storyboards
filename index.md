@@ -9,9 +9,12 @@ We worked in elementary classrooms to help students design and build Digital Sto
 ![Image](https://github.com/jessica-yauney/digital-storyboards/blob/gh-pages/starwars.png?raw=true)
 
 ### Examples
-
-<video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" style="max-width: 730px;">
-</video>
+  <video src="https://user-images.githubusercontent.com/67326701/159186728-93d9788a-2a02-4f2c-9503-89df3d46cffa.mp4" controls="controls" style="max-height:640px;">
+  </video>
+<video src="https://user-images.githubusercontent.com/67326701/159186586-7d438ab3-b8cb-4f6a-b4a8-73946571134d.mp4" controls="controls" style="max-height:640px;">
+  </video>
+<video src="https://user-images.githubusercontent.com/67326701/159186424-509e931c-2ad4-45dc-a5e1-cb2451b1d2ad.mp4" controls="controls" style="max-height:640px;">
+  </video>
 
 ### Survey
 
