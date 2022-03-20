@@ -15,7 +15,10 @@ We worked in elementary classrooms to help students design and build Digital Sto
   </video>
 <video src="https://user-images.githubusercontent.com/67326701/159186424-509e931c-2ad4-45dc-a5e1-cb2451b1d2ad.mp4" controls="controls" style="max-height:640px;">
   </video>
-
+  
+### Contact Information 
+- Scott Bartholomew
+- Jessica Yauney [jessica.yauney@gmail.com](jessica.yauney@gmail.com)
 ### Survey
 
 - Bulleted
