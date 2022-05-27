@@ -17,7 +17,7 @@ We worked in elementary classrooms to help students design and build Digital Sto
   </video>
   
 ### Contact Information 
-- Scott Bartholomew
+- Scott Bartholomew [scottbartholomew@byu.edu](mailto:scottbartholomew@byu.edu)
 - Jessica Yauney [jessica.yauney@gmail.com](mailto:jessica.yauney@gmail.com)
 ### Survey
 
