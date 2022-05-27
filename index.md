@@ -21,9 +21,9 @@ We worked in elementary classrooms to help students design and build Digital Sto
 - Jessica Yauney [jessica.yauney@gmail.com](mailto:jessica.yauney@gmail.com)
 ### Survey
 
-- Bulleted
-- List
+- [Link](https://github.com/jessica-yauney/digital-storyboards/blob/gh-pages/Elementary%20Student%20Coding%20Attitudes%20Survey.pdf) 
 
 ### Permission Forms
 
-1. [Link](url) 
+1. Children's Assent Form[Link](https://github.com/jessica-yauney/digital-storyboards/blob/gh-pages/childassent7to14_final.doc) 
+2. Parent's Permission Slip [Link](https://github.com/jessica-yauney/digital-storyboards/blob/gh-pages/parentalpermission_final.doc)
